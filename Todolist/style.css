@@ -1,0 +1,60 @@
+
+  body {
+    background-color: #fff685;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .navbar {
+    background-color: #0049b7 !important;
+  }
+
+  .navbar-brand,
+  .nav-link,
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(11, 11, 11) !important;
+    font-weight: 500;
+  }
+
+  .navbar-toggler {
+    background-color: #be5c5c;
+  }
+
+  .btn-primary {
+    background-color: #ff1d58;
+    border-color: #ff1d58;
+  }
+
+  .btn-primary:hover {
+    background-color: #f75990;
+    border-color: #f75990;
+  }
+
+  .btn-danger {
+    background-color: #0049b7;
+    border-color: #0049b7;
+  }
+
+  .btn-danger:hover {
+    background-color: #00ddff;
+    border-color: #00ddff;
+    color: #000;
+  }
+
+  .form-group label {
+    color: #0049b7;
+    font-weight: bold;
+  }
+
+  #todo {
+    background-color: #d4b414;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 12px;
+    color: rgb(64, 57, 57);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  h1, p {
+    margin: 0;
+  }
+
